@@ -5,7 +5,7 @@ function Work() {
     return (
         <div className='work'>
             {/* <p className='tags'>{`<h1>`}</p> */}
-            <h1>Work</h1>
+            <h1 className='work-heading'>Work</h1>
             {/* <p className='tags'>{`</h1>`}</p> */}
             <div className='work-container'>
                 <div>

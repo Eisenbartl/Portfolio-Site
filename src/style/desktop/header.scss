@@ -1,26 +1,35 @@
 .header {
-  background: #212121;
-  color: #fff;
+  background: $main-color;
+  color: $secondary-color;
   //   height: 70vh;
   //   padding-top: 50px;
 
   .header-content {
-    padding-left: 100px;
+    position: relative;
+    min-height: 500px;
+    // padding-left: 100px;
     font-size: 27pt;
+    // place-content: ;
 
     .header-h-one {
-      margin-bottom: 20px;
+      // margin-bottom: 20px;
     }
 
     .header-p {
+      bottom: 0;
+      position: absolute;
       padding-left: 50px;
-      font-size: 37pt;
+      font-size: 47pt;
+      z-index: 2;
     }
 
     h1 {
-      font-size: 60pt;
+      opacity: 0.3;
+      position: absolute;
+      font-size: 345pt;
+      // font-size: 60pt;
       // margin-bottom: 30px;
-      padding-left: 50px;
+      // padding-left: 50px;
     }
 
     p {

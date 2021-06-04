@@ -1,14 +1,9 @@
-// global
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-
-.tags {
-  font-size: 20pt;
-}
+// style variables
+@import "./variables.scss";
 
 // desktop
 @import "./desktop/header.scss";
 @import "./desktop/work.scss";
+
+// global
+@import "./global.scss";
