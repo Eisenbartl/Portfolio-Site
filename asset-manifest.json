@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Site/static/css/main.e91d989f.chunk.css",
+    "main.js": "/Portfolio-Site/static/js/main.74aadb4e.chunk.js",
+    "main.js.map": "/Portfolio-Site/static/js/main.74aadb4e.chunk.js.map",
+    "runtime-main.js": "/Portfolio-Site/static/js/runtime-main.0f9d3489.js",
+    "runtime-main.js.map": "/Portfolio-Site/static/js/runtime-main.0f9d3489.js.map",
+    "static/js/2.32d918a9.chunk.js": "/Portfolio-Site/static/js/2.32d918a9.chunk.js",
+    "static/js/2.32d918a9.chunk.js.map": "/Portfolio-Site/static/js/2.32d918a9.chunk.js.map",
+    "index.html": "/Portfolio-Site/index.html",
+    "static/css/main.e91d989f.chunk.css.map": "/Portfolio-Site/static/css/main.e91d989f.chunk.css.map",
+    "static/js/2.32d918a9.chunk.js.LICENSE.txt": "/Portfolio-Site/static/js/2.32d918a9.chunk.js.LICENSE.txt",
+    "static/media/RemoteReq-logotype-cobalt.0f06a081.png": "/Portfolio-Site/static/media/RemoteReq-logotype-cobalt.0f06a081.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f9d3489.js",
+    "static/js/2.32d918a9.chunk.js",
+    "static/css/main.e91d989f.chunk.css",
+    "static/js/main.74aadb4e.chunk.js"
+  ]
+}
