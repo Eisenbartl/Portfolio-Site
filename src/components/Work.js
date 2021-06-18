@@ -3,6 +3,7 @@ import RRLogo from '../img/RemoteReq-logotype-cobalt.png'
 import Github from '../img/github.png';
 import Linkedin from '../img/linkedin.png';
 import ProfilePic from '../img/profile-pic-me.jpg';
+import FunShirts from '../img/funshirtsicon.png';
 
 function Work() {
     return (
@@ -10,7 +11,9 @@ function Work() {
             <div className='work-about'>
                 <h1>Work</h1>
                 <p>
-                Venenatis urna cursus eget nunc scelerisque viverra mauris in aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod in pellentesque massa placerat duis ultricies lacus sed turpis tincidunt id aliquet risus feugiat in ante metus dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu non odio euismod lacinia at quis risus sed vulputate odio ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in dictum non consectetur a erat nam at lectus urna duis convallis convallis tellus id interdum velit laoreet id donec ultrices tincidunt arcu non sodales neque sodales ut etiam sit amet nisl.
+                    I'm a Front-End Developer in Austin, TX.<br></br>
+                    I develop web apps using HTML, CSS/SCSS, JavaScript and React.
+                    
                 </p>
             </div>
             <div className='work-container'>
@@ -23,9 +26,16 @@ function Work() {
                     </a>
                 </div>
                 <div>
-                    <div className='work-item e-commerce'>e-commerce</div>
-                    <button>site</button>
-                    <button>github</button>
+                    <div className='work-item e-commerce'>
+                        <img src={ FunShirts }/>
+                    </div>
+                    <a href='https://commercefunshirts.netlify.app/' target='/'>
+                        <button>site</button>
+                    </a>
+                    <a href='https://github.com/Eisenbartl/e-commerce-funshirts' target='/'>
+                        <button>github</button>
+                    </a>
+                    
                 </div>
                 <div>
                     <div className='work-item desk-app'>electron.js<br></br>
